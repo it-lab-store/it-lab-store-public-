@@ -1,2 +1,2 @@
-# it-lab-store-public-
+# it-lab-store
 making websites
